@@ -9,9 +9,11 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "mocha test/index.js",
-    "prepare": "npm run build"
+    "test": "mocha test/index.js"    
   },
+  "files": [
+    "index.js",
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/tomcartwrightuk/socket.io-p2p-server"
