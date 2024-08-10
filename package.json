@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/tomcartwrightuk/socket.io-p2p-server",
   "dependencies": {    
-    "debug": "~2.1.2",    
+    "debug": "~2.1.2"
   },
   "devDependencies": {
     "chai": "~2.1.2",    
